@@ -15,3 +15,5 @@
 - *The Hero and the Crown*/
 - *The Absolutely True Diary of a Part-Time Indian*/
 - *Speak*/
+/
+## Class Policies/
