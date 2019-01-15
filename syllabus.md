@@ -17,3 +17,4 @@
 - *Speak*/
 /
 ## Class Policies/
+- Lateness/
